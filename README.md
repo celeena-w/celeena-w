@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# 👋 Helloo, I'm **Celeena Widyaratne**
+👋 Helloo, I'm **Celeena Widyaratne**
 
 ### *Building software with purpose.*  
 ### *Exploring AI with curiosity.*  
