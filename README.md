@@ -1,4 +1,6 @@
-👋 Helloo, I'm **Celeena Widyaratne**
+<header>
+  👋 Helloo, I'm **Celeena Widyaratne**
+</header>
 
 Technology has always fascinated me...not only because of what it can do, but because of the people it can help.
 
