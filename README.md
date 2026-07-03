@@ -1,61 +1,6 @@
-````markdown
-<!-- ========================= HEADER ========================= -->
-
-<div align="center">
-
 👋 Helloo, I'm **Celeena Widyaratne**
 
-### *Building software with purpose.*  
-### *Exploring AI with curiosity.*  
-### *Creating technology that improves lives.*
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Visitors&color=0e75b6&style=flat)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-
-</div>
-
----
-
-# 🩺 Developer Dashboard
-
-```yaml
-──────────────────────────────────────────────
-
-PATIENT
-  Celeena Widyaratne
-
-STATUS
-  🟢 Online
-
-LOCATION
-  📍 Adelaide, Australia
-
-MISSION
-  Building software that improves lives.
-
-SPECIALISATION
-  Software Engineering
-  Artificial Intelligence
-  Healthcare Technology
-
-CURRENT HEARTBEAT
-  Learning.
-  Building.
-  Growing.
-
-──────────────────────────────────────────────
-```
-
----
-
-# 💙 Why I Build
-
-Technology has always fascinated me—not only because of what it can do, but because of the people it can help.
+Technology has always fascinated me...not only because of what it can do, but because of the people it can help.
 
 I'm currently pursuing a **Bachelor of Information Technology** at the **University of Adelaide**, building a strong foundation in software engineering while exploring artificial intelligence and its potential within healthcare.
 
@@ -63,11 +8,7 @@ I enjoy transforming ideas into reliable software, continuously learning new tec
 
 My long-term goal is to contribute to intelligent healthcare solutions that are practical, accessible and genuinely improve people's lives.
 
----
-
-# 🫀 Vitals
-
-### Languages & Technologies
+Languages & Technologies
 
 <p align="left">
 
