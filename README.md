@@ -24,37 +24,8 @@ Languages & Technologies
 - Canva
 - Git & GitHub
 
----
 
-# 🔬 Current Research
-
-🧠 Artificial Intelligence
-
-🏥 Healthcare Technology
-
-💻 Software Engineering
-
-🌐 Web Development
-
-☁️ Cloud Computing
-
----
-
-# 📚 Patient History
-
-🎓 **Bachelor of Information Technology**
-
-**The University of Adelaide**
-
----
-
-🎓 **Diploma of Information Technology**
-
-**University of Technology Sydney**
-
----
-
-# ❤️ Current Treatment Plan
+# I'm interested in:
 
 ✔️ Strengthening Java & Python
 
@@ -67,34 +38,6 @@ Languages & Technologies
 ✔️ Exploring AI applications in healthcare
 
 ---
-
-# 🩻 Diagnosis
-
-```text
-Curiosity Level        ████████████████ 100%
-
-Problem Solving        ███████████████░ 95%
-
-Learning New Tech      ████████████████ 100%
-
-Creativity             ██████████████░░ 90%
-
-Coffee Dependency      ███████████░░░░░ Moderate ☕
-```
-
----
-
-# 🚑 Dream Destination
-
-I'm inspired by teams that push the boundaries of technology and innovation.
-
-🍎 Apple
-
-🔵 Microsoft
-
-🔴 Google
-
-🏎️ Porsche
 
 My goal is to contribute to products that make technology more intuitive, intelligent and impactful.
 
@@ -115,18 +58,6 @@ My goal is to contribute to products that make technology more intuitive, intell
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 💭 Developer Philosophy
-
-> Great software isn't just code.
->
-> It's empathy.
->
-> It's curiosity.
->
-> It's thousands of thoughtful decisions that make someone's day a little easier.
 
 ---
 
