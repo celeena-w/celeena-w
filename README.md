@@ -1,10 +1,10 @@
 <header>
-  👋 Helloo, I'm **Celeena Widyaratne**
+  👋 Helloo, I'm Celeena Widyaratne!
 </header>
 
 Technology has always fascinated me...not only because of what it can do, but because of the people it can help.
 
-I'm currently pursuing a **Bachelor of Information Technology** at the **University of Adelaide**, building a strong foundation in software engineering while exploring artificial intelligence and its potential within healthcare.
+I'm currently pursuing a **Bachelor of Information Technology (Software Development)** at the **Adelaide University**, building a strong foundation in software development while exploring artificial intelligence and its potential within healthcare.
 
 I enjoy transforming ideas into reliable software, continuously learning new technologies, and solving problems that have a meaningful impact.
 
