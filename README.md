@@ -1,7 +1,5 @@
-<header>
-  👋 Helloo, I'm Celeena Widyaratne!
-</header>
-
+<!-- ========================= HEADER ========================= --> 
+<div align="center"> 👋 Hi, I'm **Celeena Widyaratne** 
 Technology has always fascinated me...not only because of what it can do, but because of the people it can help.
 
 I'm currently pursuing a **Bachelor of Information Technology (Software Development)** at the **Adelaide University**, building a strong foundation in software development while exploring artificial intelligence and its potential within healthcare.
