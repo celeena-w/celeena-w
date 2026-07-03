@@ -1,4 +1,4 @@
-# Heyy there, it's Celeena here 😊
+# Heyy, it's Celeena here 😊
 **`Software Developer | HealthTech`** 
 
 An aspiring Software Developer and AI enthusiast currently pursuing a Bachelor of Information Technology (Software Development) at the Adelaide University. I enjoy building software, strengthening my problem-solving skills, and exploring emerging technologies that have the potential to improve everyday life. 
