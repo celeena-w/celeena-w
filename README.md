@@ -14,61 +14,61 @@ I'm particularly interested in the future of artificial intelligence and its app
 
 <h5> Also comfortable with: JavaFX components & basic Unix commands. </h5>
 
-## GitHub Stats
+## My GitHub Stats
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=celeena-w&theme=tokyonight&hide_border=true" />
 </p>
 
-## Projects - showcase
+## My Projects
 
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="................................................">
-        <img src="..........................................."
-             alt="Celeena project image name"
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdzOTVwaGxyZWZ2a21jaDRqejR6ZjBybTloMTA0azZ6eGI2b296ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif"
+             alt="Project 1"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Celee project name</b><br/>
+      <b>PROJECT NAME </b><br/>
       <sub>My project description ......</sub><br/>
-      🔗 <a href="................................">any repos</a>
+      🔗 <a href="................................">view repository here</a>
       <br/>
-      <sub>Tags: .................</sub>
+      <sub>Tags: [none mentioned] </sub>
     </td>
     <td align="center" width="33%">
       <a href="...........................">
-        <img src="....................."
-             alt="something Project"
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJkamwwbGxlN2Z4OTNqdTFld2FxM2M2enB1cmh2MG8wMDh4azFnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LESpNIDaNBUcRIPzng/giphy.gif"
+             alt="Project 2"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Project Name .....</b><br/>
-      <sub>Project description la la.....</sub><br/>
-      🔗 <a href="...............................">any repos put here!</a>
+      <b>PROJECT NAME</b><br/>
+      <sub>Project description la la la laaa</sub><br/>
+      🔗 <a href="...............................">view repository here</a>
       <br/>
-      <sub>Tags: ...............</sub>
+      <sub>Tags: [none mentioned] </sub>
     </td>
     <td align="center" width="33%">
       <a href="..............................................">
-        <img src="......................................"
-             alt="image name"
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Btd2N2OWtrZjg1YnhjNnl2bjdmY2JzbTB1YTljbnh3eG8zYW0yMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zbzJF5kZxHBw8f7aOD/giphy.gif"
+             alt="Project 3"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Project name</b><br/>
-      <sub>project description .....</sub><br/>
-      🔗 <a href="..............................">any repos put here!</a>
+      <b>PROJECT NAME</b><br/>
+      <sub>project description la la laaa laa</sub><br/>
+      🔗 <a href="..............................">view repository here</a>
       <br/>
-      <sub>Tags: ................</sub>
+      <sub>Tags: [none mentioned] </sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## Links
+## Let's stay in touch!
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
 [**Click here to reach me out via my e-mail**](mailto:yenuliceleena.widyaratne@student.adelaide.edu.au)
