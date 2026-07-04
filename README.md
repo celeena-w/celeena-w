@@ -7,18 +7,8 @@ I'm particularly interested in the future of artificial intelligence and its app
 
 ![image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY5eHJmY3lmNjJ4NjkzMmN0dnI2cnU0NTFpaDhyajl1Z2xjdXdkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-## Skill stack 
-<!-- Skill icons provided by skill-icons. Full icon list and names:
-     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,java,mysql,vscode)](https://skillicons.dev)
-
-<h5> Also comfortable with: JavaFX components & basic Unix commands. </h5>
-
-## My GitHub Stats
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=celeena-w&theme=tokyonight&hide_border=true" />
-</p>
+## Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## My Projects
 
@@ -67,8 +57,12 @@ I'm particularly interested in the future of artificial intelligence and its app
 </table>
 
 ---
+## GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=celeena-w&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=celeena-w&theme=midnight-purple&hide_border=true)<br/>
 
-## Let's stay in touch!
+
+## Connect With Me
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
 [**Click here to reach me out via my e-mail**](mailto:yenuliceleena.widyaratne@student.adelaide.edu.au)
