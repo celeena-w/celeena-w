@@ -5,15 +5,14 @@ An aspiring Software Developer and AI enthusiast currently pursuing a Bachelor o
 
 I'm particularly interested in the future of artificial intelligence and its applications in healthcare, and I'm always looking for opportunities to learn, collaborate, and create meaningful solutions.
 
-## Skill stack
+![image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY5eHJmY3lmNjJ4NjkzMmN0dnI2cnU0NTFpaDhyajl1Z2xjdXdkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+## Skill stack 
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,java,mysql,vscode)](https://skillicons.dev)
 
-**Also comfortable with**: JavaFX components & basic Unix commands.
-
-
----
+<h5> Also comfortable with: JavaFX components & basic Unix commands. </h5>
 
 ## Projects - showcase
 
@@ -63,16 +62,16 @@ I'm particularly interested in the future of artificial intelligence and its app
 
 ---
 
-## Stats
-<!-- Stats card by anuraghazra/github-readme-stats
-     Customization guide:
-     - Hide private contributions: &count_private=true|false
-     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
-     - Show icons: &show_icons=true
-     Docs: https://github.com/anuraghazra/github-readme-stats -->
-![streaks and all that here](https://github-readme-stats.vercel.app/api?username=celeena-w&show_icons=true&theme=gruvbox)
+## 📊 GitHub Stats
 
----
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celeena-w&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=celeena-w&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
