@@ -14,6 +14,12 @@ I'm particularly interested in the future of artificial intelligence and its app
 
 <h5> Also comfortable with: JavaFX components & basic Unix commands. </h5>
 
+## GitHub Stats
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=celeena-w&theme=tokyonight&hide_border=true" />
+</p>
+
 ## Projects - showcase
 
 <table>
@@ -62,28 +68,17 @@ I'm particularly interested in the future of artificial intelligence and its app
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celeena-w&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=celeena-w&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- [**Contact**](mailto:yenuliceleena.widyaratne@student.adelaide.edu.au)
+[**Click here to reach me out via my e-mail**](mailto:yenuliceleena.widyaratne@student.adelaide.edu.au)
+
+OR let's connect through:
+
+<a href="https://leetcode.com/u/celeena_w/" target="blank">
+  <img height=150px width= 150px src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_nav.4d940ca72.png" alt="LeetCode" />
+</a>
 
 <a href="https://www.linkedin.com/in/celeena-widyaratne-697747389/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://leetcode.com/u/celeena_w/" target="blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" />
-</a>
-
-<!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
-![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
